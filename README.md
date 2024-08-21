@@ -9,3 +9,5 @@ The project was created to improve my web development skills and supports my lea
 
 Project Link: MoyVeb
 https://emreodesia.github.io/MoyVeb/
+
+![WEB1](https://github.com/user-attachments/assets/e8737454-3947-421c-aba1-384268f7743f)
