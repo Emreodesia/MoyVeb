@@ -1,2 +1,11 @@
 # MoyVeb
-https://emreodesia.github.io/MyWeb/index.html
+Project Name: MoyVeb
+
+Project Description:
+
+MoyVeb is a web project developed using HTML, CSS, Bootstrap and JavaScript. This project aims to create a dynamic and user-friendly web interface using modern web development techniques. Responsive design provided by Bootstrap and aesthetic appearances designed with CSS ensure that the project works harmoniously on every device. Interactive elements added with JavaScript enrich the user experience.
+
+The project was created to improve my web development skills and supports my learning process.
+
+Project Link: MoyVeb
+https://emreodesia.github.io/MoyVeb/
